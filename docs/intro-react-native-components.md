@@ -32,7 +32,7 @@ React Native also lets you build your own Native Components for [Android](legacy
 
 React Native has many Core Components for everything from controls to activity indicators. You can find them all [documented in the API section](components-and-apis). You will mostly work with the following Core Components:
 
-| React Native UI Component | Android View   | iOS View         | Web Analog              | Description                                                                                           |
+| React Native UI Component | Android View   | iOS View         | Web Analogy              | Description                                                                                           |
 | ------------------------- | -------------- | ---------------- | ----------------------- | ----------------------------------------------------------------------------------------------------- |
 | `<View>`                  | `<ViewGroup>`  | `<UIView>`       | A non-scrolling `<div>` | A container that supports layout with flexbox, style, some touch handling, and accessibility controls |
 | `<Text>`                  | `<TextView>`   | `<UITextView>`   | `<p>`                   | Displays, styles, and nests strings of text and even handles touch events                             |
