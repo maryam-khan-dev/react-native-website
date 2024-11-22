@@ -35,7 +35,7 @@ There are other ways you can contribute without writing a single line of code. H
 2. **Reviewing pull requests for the docs.**
 
    Reviewing [documentation updates](https://github.com/facebook/react-native-website/pulls) can be as simple as checking for spelling and grammar.
-   If you encounter situations that can be explained better in the docs, click **Edit** at the top of most docs pages to get started with your own contribution.
+   If you encounter situations that can be explained better in the docs, click **Edit this page** at the bottom left of most docs pages to get started with your own contribution.
 
 3. **Help people write test plans.**
 
@@ -81,7 +81,7 @@ Meta has a [bounty program](https://www.facebook.com/whitehat/) for the safe dis
 
 ## Helping with Documentation
 
-The React Native documentation is hosted as part of the React Native website repository. The website is built using [Docusaurus](https://docusaurus.io/). If there's anything you'd like to change in the docs, you can get started by clicking on the "Edit" button located on the upper right of most pages in the website.
+The React Native documentation is hosted as part of the React Native website repository. The website is built using [Docusaurus](https://docusaurus.io/). If there's anything you'd like to change in the docs, you can get started by clicking on the "Edit this page" button located on the bottom left of most pages in the website.
 
 If you are adding new functionality or introducing a change in behavior, we will ask you to update the documentation to reflect your changes.
 
